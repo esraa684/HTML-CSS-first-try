@@ -286,6 +286,7 @@ body{
 .portfolio .portfolio-content .card{
     background-color: snow;
     box-shadow: -6px -8px 15px 1px grey;
+    border-radius:30px;
     
 
 }
